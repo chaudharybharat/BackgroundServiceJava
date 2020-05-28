@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "982567941174",
+    "firebase_url": "https://test-35d14.firebaseio.com",
+    "project_id": "test-35d14",
+    "storage_bucket": "test-35d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982567941174:android:697fc5585df66c9c685497",
+        "android_client_info": {
+          "package_name": "com.bharat.callscreenopen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX07exK0Q-rxBZIqvCrWs51cHuXBp9-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982567941174-cqlfbc0ckikfc28dinebduia87hgormm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loygocompany"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982567941174:android:ca4187a8dab5b74b685497",
+        "android_client_info": {
+          "package_name": "com.callkitsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX07exK0Q-rxBZIqvCrWs51cHuXBp9-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982567941174-cqlfbc0ckikfc28dinebduia87hgormm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loygocompany"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982567941174:android:cc9458376357106b685497",
+        "android_client_info": {
+          "package_name": "com.example.mybackgroundforegound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX07exK0Q-rxBZIqvCrWs51cHuXBp9-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982567941174-cqlfbc0ckikfc28dinebduia87hgormm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loygocompany"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982567941174:android:948e2ad1e3e42ba0685497",
+        "android_client_info": {
+          "package_name": "com.example.mybackgroundservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX07exK0Q-rxBZIqvCrWs51cHuXBp9-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982567941174-cqlfbc0ckikfc28dinebduia87hgormm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loygocompany"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982567941174:android:29bd252069ea0f64685497",
+        "android_client_info": {
+          "package_name": "com.loygocompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX07exK0Q-rxBZIqvCrWs51cHuXBp9-Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982567941174-g911nernsj85gcautk9q3gt2ne79vefr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982567941174-cqlfbc0ckikfc28dinebduia87hgormm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loygocompany"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
